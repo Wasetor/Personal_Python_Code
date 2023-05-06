@@ -1,5 +1,5 @@
 print("what operation do you want?")
-operator = input("Enter either +, -, * or /:")
+operator = input("Enter either +, -, * or /: ")
 n1 = float(input("Enter first number:  "))
 n2 = float(input("Enter second number: "))
 
